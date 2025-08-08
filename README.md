@@ -114,4 +114,5 @@ Troubleshooting (Android)
 
 ## License
 
-MIT
+MIT License [LICENSE](LICENSE)
+
