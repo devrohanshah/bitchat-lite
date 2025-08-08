@@ -113,4 +113,5 @@ Troubleshooting (Android)
 
 
 ## License
-MIT (or your preferred license).
+
+MIT
